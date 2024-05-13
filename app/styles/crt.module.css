@@ -1,0 +1,10 @@
+.crtScreen {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: green;
+  background-image: url("../../public/bezel.png"),
+    url("../../public/scanlines.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
